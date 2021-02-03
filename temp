@@ -1,0 +1,12 @@
+ 
+         <div>
+           <h1>Go to BED now</h1>
+            <h3>Calculates the necessary sleep cycles needed if you give the time you will wake up</h3>
+            <h3>Please enter the time in HH:MM and click below button</h3>
+                <p><input type = "text"/> : <input type = "text"/> <button>Click to Calculate</button></p>
+        </div>
+        
+        
+        <div>
+            
+        </div>
