@@ -1,1 +1,27 @@
  
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin 1 2s linear;
+  height: 300px;
+}
+
+.App-headerr {
+  background-color: #ccff66;
+  height: 660px;
+  padding: 30px;
+  color: black;
+}
+
+.App-title {
+  font-size: 3em;
+  
+}
+.App-sstitle {
+  font-size: 1.3em;
+}
+.App-intro {
+  font-size: large;
+}

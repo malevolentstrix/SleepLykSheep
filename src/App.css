@@ -8,18 +8,18 @@
 }
 
 .App-header {
-  background-color: #f0ffff;
-  height: 470px;
+  background-color: #003300;
+  height: 580px;
   padding: 30px;
-  color: blue;
+  color: white;
 }
 
 .App-title {
-  font-size: 3em;
+  font-size: 2em;
   
 }
 .App-sstitle {
-  font-size: 1.3em;
+  font-size: 1.5em;
 }
 .App-intro {
   font-size: large;

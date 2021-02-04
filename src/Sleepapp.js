@@ -107,26 +107,26 @@ export default function Sleepapp() {
     setSleephour4(j => j + tymhour4)
     }
     return (<div>
-
-        <div>
+<div className = "App-headerr">
+         <div className="App">
        
             <h1>Go to BED now</h1>
             <h3>Calculate the necessary sleep cycles if you lie down now</h3>
             <h3>Please click the below button</h3>
                 <button>Click to Calculate</button>
         </div>
-        <div>
+        <div className = "App">
             <h1>What time to wake up?</h1>
             <h3>Calculates the necessary sleep cycles needed if you give the time you will go to bed</h3>
             <h3>Please enter the time in HH:MM and click the below button</h3>
                 <p><input ref={sleephourRef} type = "text"/> : <input ref={sleepminRef} type = "text"/> <button onClick = {handletime}>Click to Calculate</button></p>
         </div>
-        <div>
+        <div className = "App">
         <h2>You are expected to wake up at</h2>
     	<h1>{sleephour}:{sleepmin} (1 Sleep Cycle) or</h1> <h1>{sleephour2}:{sleepmin2} (2 Sleep Cycles) or</h1>
         <h1>{sleephour3}:{sleepmin3} (3 Sleep Cycle) or</h1> <h1>{sleephour4}:{sleepmin4} (4 Sleep Cycles)</h1>
     	</div>
 
-               </div>
+               </div></div>
     )
 }
