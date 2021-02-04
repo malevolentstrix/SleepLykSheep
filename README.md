@@ -22,12 +22,15 @@ Stage 1.- It is the lightest part of the dream where
 you can be easily awakened. During this stage, many
 people experience sudden muscle contractions
 preceded by a feeling of falling.
+
 Stage 2.- The movement of the eyes stops and the
 brain waves become slower with only an occasional
 burst of rapid brain waves.
+
 Stage 3.- There are extremely slow brain waves
 called delta waves that are interspersed with smaller
 and faster waves.
+
 Stage 4.- The brain produces delta Waves almost
 exclusively. Stages 3 and 4 are referred to as deep
 sleep, and it is very difficult to wake someone from
