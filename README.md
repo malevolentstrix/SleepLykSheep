@@ -2,6 +2,10 @@
 
 ### An App made on REACT.JS for calculating the Sleep Hours using the concept of Sleep Cycles.
 
+## HOW TO RUN THE APP ON YOUR PC?
+
+Follow the [README.md](https://github.com/imjithin2077/SleepLykSheep/tree/master/howtorun) file in the 'howtorun' folder
+
 ## HOW IT WORKS?
 The inertia of sleep is a physiological state
 characterized by a decrease in motor skills and the
