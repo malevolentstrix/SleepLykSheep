@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# SleepLykSheep
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### An App made on REACT.JS for calculating the Sleep Hours using the concept of Sleep Cycles.
 
-## Available Scripts
+## HOW IT WORKS?
+The inertia of sleep is a physiological state
+characterized by a decrease in motor skills and the
+subjective feeling of drowsiness after a sudden
+awakening (wake-up alarms). This state can vary in
+intensity and durability according to the sleep phase
+in which the sleep was interrupted.
 
-In the project directory, you can run:
+## WHAT ARE THE SLEEP CYCLES?
+Sleep cycles are rest periods of between 90 and 110
+minutes in length, comprising five stages.
 
-### `npm start`
+Stage 1.- It is the lightest part of the dream where
+you can be easily awakened. During this stage, many
+people experience sudden muscle contractions
+preceded by a feeling of falling.
+Stage 2.- The movement of the eyes stops and the
+brain waves become slower with only an occasional
+burst of rapid brain waves.
+Stage 3.- There are extremely slow brain waves
+called delta waves that are interspersed with smaller
+and faster waves.
+Stage 4.- The brain produces delta Waves almost
+exclusively. Stages 3 and 4 are referred to as deep
+sleep, and it is very difficult to wake someone from
+them. When we are in deep sleep, there is no eye
+movement or muscle activity.
+REM stage (Rapid Eye Movement) :- It is when the
+breathing becomes faster, superficial and irregular,
+the eyes are quickly agitated and the muscles of the
+limbs temporarily paralyzed. Brain waves during this
+stage are similar to those experienced by people
+when they are awake, the heart rate increases, blood
+pressure rises, men experience erections and the
+body loses some of the ability to regulate its
+temperature. It is the time when most dreams occur,
+if a person is awakened during REM sleep, he may be
+able to remember dreams. Most individuals
+experience three to five intervals of REM sleep each
+night.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## WHEN TO AWAKEN?
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+In general it is better to wake up in the final part of the
+REM stage or at the beginning of Stage 1.
